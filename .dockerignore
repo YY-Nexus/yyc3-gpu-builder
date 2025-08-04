@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vscode
+*.log
+node_modules
+build
+dist
+.DS_Store
+setup-project.sh
